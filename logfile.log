@@ -1,0 +1,29 @@
+2017-02-26 01:18:19,453 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 01:19:29,267 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 01:21:48,405 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 01:30:41,631 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 01:34:33,901 ERROR [Log] Class Utils | Method setExcelFile | Exception desc : The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF) 
+2017-02-26 01:34:33,943 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 01:34:41,544 ERROR [Log] Class Utils | Method setExcelFile | Exception desc : The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF) 
+2017-02-26 01:34:41,567 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 01:34:41,925 ERROR [Log] Class Utils | Method setExcelFile | Exception desc : The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF) 
+2017-02-26 01:34:41,942 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 01:34:49,925 ERROR [Log] Class Utils | Method setExcelFile | Exception desc : The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF) 
+2017-02-26 01:34:49,946 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 01:35:08,228 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 01:38:43,803 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 01:38:44,123 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 01:42:42,400 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 12:03:42,722 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 12:33:49,883 ERROR [Logger] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 12:37:09,237 ERROR [Logger] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 13:42:21,993 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 14:01:07,960 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 18:03:47,518 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 18:04:58,334 ERROR [Log] Class Utils | Method setExcelFile | Exception desc : The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF) 
+2017-02-26 18:04:58,371 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 18:05:43,581 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 18:05:50,842 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 18:06:59,514 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 18:17:25,175 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2017-02-26 18:17:25,350 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 

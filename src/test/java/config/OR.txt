@@ -1,0 +1,8 @@
+# Login Page Object
+txtbx_UserName=.//input[@name='mobile_number']
+txtbx_Password=.//input[@name='password']
+btn_LogIn=.//input[@name='commit']
+
+# Dashboard Page Object
+lnk_MySetting=My Settings
+lnk_Logout=Logout
